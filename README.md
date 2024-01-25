@@ -1,6 +1,6 @@
-![E869D605-5EB9-4AC5-9EF0-8EECEE9C1CBA_1_201_a](https://github.com/404Qea/gorev-sistemi-mission-system/assets/145233685/63d52cbf-5099-4764-ad89-a186e27fe53d)
-![4A69F99D-056B-49BE-AE5A-309C83ABF129_1_201_a](https://github.com/404Qea/gorev-sistemi-mission-system/assets/145233685/dc9d9a8c-f78a-4377-aea3-bb4c8124fd07)
-![198D50DB-04D6-4867-A84C-78CCB3D00494_1_201_a](https://github.com/404Qea/gorev-sistemi-mission-system/assets/145233685/7b894109-a716-4d83-a295-125cd8ec7f0e)
+![407787F8-91CE-4902-8312-0189B1ECB852_1_201_a](https://github.com/404Qea/gorev-sistemi-mission-system/assets/145233685/9b301b95-ce5c-4769-9ca0-ad940c58060f)
+![5FDBEA1F-070D-4F72-95E4-6951E0B0A1C6_1_201_a](https://github.com/404Qea/gorev-sistemi-mission-system/assets/145233685/40f9bc59-ab42-4a51-9c08-a521fcd8b594)
+![353FA877-ED73-45E8-B2DE-7857D75CEF8E_1_201_a](https://github.com/404Qea/gorev-sistemi-mission-system/assets/145233685/915a7d0f-b1be-463b-b9db-32d44b199171)
 
 # Ekip Görev Sistemi Nedir?
 Ekibiniz için oluşturacağınız görevlerin raporlarını tutabileceğiniz, görevler ekleyip listeleyebileceğiniz, ekip üyelerini ekleyip çıkarabileceğiniz mini bir uygulamadır.

@@ -1,5 +1,5 @@
+![3A53C477-6522-4EC8-8D43-5B9838E3C479](https://github.com/404Qea/gorev-sistemi-mission-system/assets/145233685/689c1037-f9e1-43af-b411-d101699f34d5)
 ![407787F8-91CE-4902-8312-0189B1ECB852_1_201_a](https://github.com/404Qea/gorev-sistemi-mission-system/assets/145233685/9b301b95-ce5c-4769-9ca0-ad940c58060f)
-![5FDBEA1F-070D-4F72-95E4-6951E0B0A1C6_1_201_a](https://github.com/404Qea/gorev-sistemi-mission-system/assets/145233685/40f9bc59-ab42-4a51-9c08-a521fcd8b594)
 ![353FA877-ED73-45E8-B2DE-7857D75CEF8E_1_201_a](https://github.com/404Qea/gorev-sistemi-mission-system/assets/145233685/915a7d0f-b1be-463b-b9db-32d44b199171)
 
 # Ekip Görev Sistemi Nedir?
